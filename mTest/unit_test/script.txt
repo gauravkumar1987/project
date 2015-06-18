@@ -1,0 +1,2 @@
+g++ abc.cpp -o abc -I /home/project/mock/googlemock/include/ -I /home/project/mock/googletest/include/ -L /home/project/lib/ -lgmock -lgmock_main -lpthread
+
